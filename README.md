@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @illymar
+- 👋 Hi, I’m @ellymar
 - 👀 I’m interested in video making and computer stuffs
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on people who wants to help me answer my assignments
